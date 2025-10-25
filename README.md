@@ -3,7 +3,7 @@
 Aplikasi Wisata Indonesia adalah aplikasi Flutter sederhana yang menampilkan daftar tempat wisata populer di Indonesia.
 Aplikasi ini dibuat menggunakan data dummy (tanpa integrasi API atau database eksternal) dan bertujuan untuk melatih pemahaman dasar tentang UI Flutter, navigasi antar halaman, serta pengelolaan state sederhana.
 
-##📱 Fitur Aplikasi
+## 📱 Fitur Aplikasi
 
 **🏖️ Beranda**
 
