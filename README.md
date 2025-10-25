@@ -26,6 +26,16 @@ Menampilkan deskripsi lengkap dari setiap tempat wisata yang dipilih pengguna.
 ## 🧱 Struktur Folder
 
 ```
+assets/
+│
+├──images/
+│    ├── bali.jpg
+│    ├── borobudur.jpg
+│    ├── bromo.jpg
+│    ├── raja_ampat.jpg
+│    ├── toba.jpg
+│    ├── wakatobi.jpg
+
 lib/
 │
 ├── main.dart                # File utama aplikasi
