@@ -25,7 +25,8 @@ Menampilkan deskripsi lengkap dari setiap tempat wisata yang dipilih pengguna.
 
 ## 🧱 Struktur Folder
 
-```lib/
+```
+lib/
 │
 ├── main.dart                # File utama aplikasi
 ├── models/
