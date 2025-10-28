@@ -26,16 +26,17 @@ Menampilkan deskripsi lengkap dari setiap tempat wisata yang dipilih pengguna.
 ## 🧱 Struktur Folder
 
 ```
+
 assets/
 │
 ├──images/
-    ├── bali.jpg
-    ├── borobudur.jpg
-    ├── bromo.jpg
-    ├── raja_ampat.jpg
-    ├── toba.jpg
-    ├── wakatobi.jpg
-
+│    ├── bali.jpg
+│    ├── borobudur.jpg
+│    ├── bromo.jpg
+│    ├── raja_ampat.jpg
+│    ├── toba.jpg
+│    ├── wakatobi.jpg
+│
 lib/
 │
 ├── main.dart                # File utama aplikasi
@@ -47,8 +48,9 @@ lib/
 │   ├── profile_screen.dart  # Halaman profil
 │   └── detail_screen.dart   # Halaman detail wisata
 └── widgets/
-    └── wisata_card.dart     # Widget tampilan kartu wisata
-```
+│    └── wisata_card.dart     # Widget tampilan kartu wisata
+│
+pubspec.yaml```
 
 ## 🧩 Teknologi yang Digunakan
 
